@@ -1,0 +1,4 @@
+.vscode
+reports
+*.pyc
+__pycache__
