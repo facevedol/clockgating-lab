@@ -21,4 +21,6 @@ python main.py --minimum_bitwidth \<number> --maximum_fanout \<number>
 Report for each design are stored in the reports directory.
 
 ### Notes
+Any questions, please create and issue and we will try to answer asap.
+
 Have fun!
